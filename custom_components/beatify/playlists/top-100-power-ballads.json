@@ -1,6 +1,6 @@
 {
   "name": "Top 100 Power Ballads",
-  "version": "1.8",
+  "version": "1.9",
   "tags": [
     "1980s",
     "1990s",
@@ -484,7 +484,7 @@
     },
     {
       "year": 1987,
-      "uri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+      "uri": "spotify:track:2PoIKrT2WSEvJlJjlO6eKY",
       "artist": "Whitesnake",
       "alt_artists": [
         "Def Leppard",
@@ -2013,7 +2013,7 @@
     },
     {
       "year": 1976,
-      "uri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+      "uri": "spotify:track:6cFZ4PLC19taNlpl9pbGMf",
       "artist": "Queen",
       "alt_artists": [
         "David Bowie",
@@ -2776,12 +2776,12 @@
       "isrc": "USAT20802339",
       "uri_apple_music_by_region": {
         "us": null,
-        "de": "applemusic://track/1802225468",
-        "gb": "applemusic://track/1802225468",
-        "fr": "applemusic://track/1802225468",
-        "es": "applemusic://track/1802225468",
-        "nl": "applemusic://track/1802225468",
-        "it": "applemusic://track/1802225468"
+        "de": null,
+        "gb": null,
+        "fr": null,
+        "es": null,
+        "nl": null,
+        "it": null
       }
     },
     {
