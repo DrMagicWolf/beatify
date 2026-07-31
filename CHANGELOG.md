@@ -7,6 +7,15 @@ All notable changes to Beatify are documented here. For detailed release notes, 
 ### Added
 - **Polskie hity radiowe 🇵🇱 — 92 tracks (#1891).** Polish pop and rock radio hits spanning 1972-2016, with the heart of the collection in the 1990s and 2000s (75 of 92 tracks). The third Polish playlist alongside Polskie przeboje wszech czasów and Polski Rock; seven tracks already curated in those two were dropped as duplicates, so the catalogue gains 92 genuinely new songs rather than 100 with overlap.
 
+## [4.2.0-rc19] - 2026-07-31
+
+Pre-release — cut from current `main`. Three integration fixes, all in the speaker-selection and sign-in paths.
+
+### Fixed
+- **Speaker selection is reconciled across devices (#1927).** The server-side setup blob was only ever used to seed a *pristine* browser, so a device holding any Beatify localStorage kept its own speaker forever and a newer pick made elsewhere stayed invisible to it — a game configured on a phone could start on a laptop and play in a different room. The speaker now has one source of truth (the server), a pick made in the admin is written through to it immediately, and the home screen names the resolved speaker before the first round. The pause banner names it too, and a playback failure now logs the URI that was actually attempted instead of the song's Spotify base field.
+- **The session no longer expires 30 days after first login (#1932).** The `beatify_refresh` cookie was set only by the OAuth callback and never re-issued, so its 30 days ran from the first login however active the user was. A successful refresh now rolls the cookie, making the window measure inactivity rather than existence.
+- **The terminal sign-in error screen is translated (#1933).** Its heading, body and button were hardcoded German on a full-screen overlay. All five locales now carry the strings, with English as the fallback when translations have not loaded or an entry is missing.
+
 ## [4.2.0-rc17] - 2026-07-22
 
 Pre-release — cut from current `main`, supersedes rc16. Two gameplay changes from the Fable-review backlog, plus documentation for the AI playlist workflow.
