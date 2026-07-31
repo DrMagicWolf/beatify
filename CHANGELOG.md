@@ -7,6 +7,15 @@ All notable changes to Beatify are documented here. For detailed release notes, 
 ### Added
 - **Polskie hity radiowe 🇵🇱 — 92 tracks (#1891).** Polish pop and rock radio hits spanning 1972-2016, with the heart of the collection in the 1990s and 2000s (75 of 92 tracks). The third Polish playlist alongside Polskie przeboje wszech czasów and Polski Rock; seven tracks already curated in those two were dropped as duplicates, so the catalogue gains 92 genuinely new songs rather than 100 with overlap.
 
+## [4.2.0-rc20] - 2026-07-31
+
+Pre-release — cut from current `main`. Playback survives a throttling music provider, and the admin finally shows which speaker a round will play on.
+
+### Fixed
+- **A playback timeout no longer ends the game (#1936).** Music Assistant's Apple Music provider rate-limits and then retries after its own backoff — measured at 15.7s, longer than the deadline Beatify gives it. Every such track timed out with the speaker legitimately idle, was classified as systemic, and paused the game on the first occurrence with a re-authenticate banner for a provider that was working. A timeout now skips the song like a storefront gap; only three in a row still pause. The skip stops the speaker first, so a late retry cannot start the abandoned track under the next round. The first play of a game gets a third more time (15s → 20s) — a cold speaker was measured at 10.1s to first audio.
+- **The home screen names the speaker (#1940).** The meta line built by #1927 was never rendered on the paths that actually land on the home view — it stayed on its placeholder, so the affordance meant to make a wrong-speaker game visible was invisible. It now refreshes when the wizard hides and again once the status fetch that carries its data resolves.
+- **The setup wizard no longer opens on a configured device (#1941).** Its trigger ran before the server-side setup was seeded, so a fresh browser got the wizard on a fully configured instance — and once open it persisted state that brought it back on every later load. The seed now runs first.
+
 ## [4.2.0-rc19] - 2026-07-31
 
 Pre-release — cut from current `main`. Three integration fixes, all in the speaker-selection and sign-in paths.
