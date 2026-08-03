@@ -1,6 +1,6 @@
 {
   "name": "Ballermann Party Hits",
-  "version": "1.23",
+  "version": "1.24",
   "tags": [
     "schlager",
     "party",
@@ -2527,7 +2527,6 @@
       "year": 2022,
       "isrc": "DEEQ82200059",
       "uri": "spotify:track:6weT0OACEb3e4KLQJInf4I",
-      "uri_apple_music": "applemusic://track/1724990223",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
@@ -2900,19 +2899,19 @@
       "year": 2014,
       "isrc": "DEUM71403647",
       "uri": "spotify:track:1wMoaYl7HCU9thAkhBt383",
-      "uri_apple_music": "applemusic://track/1442689018",
+      "uri_apple_music": "applemusic://track/1660549584",
       "uri_apple_music_by_region": {
-        "us": "applemusic://track/1442689018",
-        "de": "applemusic://track/1444398785",
-        "gb": "applemusic://track/1444398785",
-        "fr": "applemusic://track/1444398785",
-        "es": "applemusic://track/1444398785",
-        "nl": "applemusic://track/1444398785",
-        "it": "applemusic://track/1444398785"
+        "us": "applemusic://track/1660549584",
+        "de": "applemusic://track/1660549584",
+        "gb": "applemusic://track/1660549584",
+        "fr": "applemusic://track/1660549584",
+        "es": "applemusic://track/1660549584",
+        "nl": "applemusic://track/1660549584",
+        "it": "applemusic://track/1660549584"
       },
-      "uri_youtube_music": "https://music.youtube.com/watch?v=00W44I0ti-Q",
+      "uri_youtube_music": "https://music.youtube.com/watch?v=3iv5jd3yKQ4",
       "uri_tidal": "tidal://track/42797955",
-      "uri_deezer": "deezer://track/88278237",
+      "uri_deezer": "deezer://track/95854606",
       "fun_fact": "Brings is a Cologne band best known for the carnival anthem \"Superjeilezick\".",
       "fun_fact_de": "Brings ist eine Kölner Band, bekannt vor allem durch die Karnevalshymne \"Superjeilezick\".",
       "fun_fact_es": "Brings es una banda de Colonia conocida sobre todo por el himno de carnaval \"Superjeilezick\".",
@@ -3091,19 +3090,19 @@
       "year": 2011,
       "isrc": "DEGE20700014",
       "uri": "spotify:track:7rJJwQ4R5POoJplkyOgsMN",
-      "uri_apple_music": "applemusic://track/1502108582",
+      "uri_apple_music": "applemusic://track/1502108571",
       "uri_apple_music_by_region": {
-        "us": "applemusic://track/1502108582",
-        "de": "applemusic://track/1502108582",
-        "gb": "applemusic://track/1502108582",
-        "fr": "applemusic://track/1502108582",
-        "es": "applemusic://track/1502108582",
-        "nl": "applemusic://track/1502108582",
-        "it": "applemusic://track/1502108582"
+        "us": "applemusic://track/1502108571",
+        "de": "applemusic://track/1502108571",
+        "gb": "applemusic://track/1502108571",
+        "fr": "applemusic://track/1502108571",
+        "es": "applemusic://track/1502108571",
+        "nl": "applemusic://track/1502108571",
+        "it": "applemusic://track/1502108571"
       },
       "uri_youtube_music": "https://music.youtube.com/watch?v=L_BUIVGKlrA",
       "uri_tidal": "tidal://track/132442925",
-      "uri_deezer": "deezer://track/887060442",
+      "uri_deezer": "deezer://track/887060432",
       "fun_fact": "A Mallorca / Ballermann party hit (2011).",
       "fun_fact_de": "Ein Mallorca-/Ballermann-Partyhit (2011).",
       "fun_fact_es": "Un éxito de fiesta de Mallorca / Ballermann (2011).",
@@ -3310,13 +3309,13 @@
       "uri": "spotify:track:0J26VAtZqKQsez0WAJh7Q6",
       "uri_apple_music": "applemusic://track/981944911",
       "uri_apple_music_by_region": {
-        "us": "applemusic://track/1565934569",
-        "de": "applemusic://track/1565934569",
-        "gb": "applemusic://track/1565934569",
-        "fr": "applemusic://track/1565934569",
-        "es": "applemusic://track/1565934569",
-        "nl": "applemusic://track/1565934569",
-        "it": "applemusic://track/1565934569"
+        "us": "applemusic://track/981944911",
+        "de": "applemusic://track/981944911",
+        "gb": "applemusic://track/981944911",
+        "fr": "applemusic://track/981944911",
+        "es": "applemusic://track/981944911",
+        "nl": "applemusic://track/981944911",
+        "it": "applemusic://track/981944911"
       },
       "uri_youtube_music": "https://music.youtube.com/watch?v=bo-VESZUZY8",
       "uri_tidal": "tidal://track/45275978",
@@ -4529,7 +4528,7 @@
         "fr": null,
         "es": null,
         "nl": null,
-        "it": "applemusic://track/1721010037"
+        "it": "applemusic://track/382430811"
       },
       "uri_youtube_music": "https://music.youtube.com/watch?v=HV-1R3-HzDI",
       "uri_tidal": "tidal://track/82006150",
@@ -4556,7 +4555,7 @@
         "nl": "applemusic://track/1858289932",
         "it": "applemusic://track/1858289932"
       },
-      "uri_youtube_music": "https://music.youtube.com/watch?v=qEKuLvKINxI",
+      "uri_youtube_music": "https://music.youtube.com/watch?v=qrzACRT8PyY",
       "uri_tidal": "tidal://track/405278867",
       "uri_deezer": "deezer://track/3138448611",
       "fun_fact": "Mickie Krause is one of Germany's best-known Ballermann entertainers, famous for his sing-along party hits.",
