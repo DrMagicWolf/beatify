@@ -1,6 +1,6 @@
 {
   "name": "Finnish Schlager Classics 🇫🇮",
-  "version": "1.9",
+  "version": "1.11",
   "tags": [
     "finnish",
     "iskelma",
@@ -1693,7 +1693,7 @@
         "it": "applemusic://track/307823429"
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20557759",
       "uri_deezer": "deezer://track/3598899",
       "fun_fact": "Markku Aro's Finnish cover of 'You're Such a Good Looking Woman' brought Joe Dolan's 1970 hit to Finnish audiences; Aro's ability to capture the spirit of international pop while keeping a distinctly Finnish feel made him a fan favourite.",
       "fun_fact_de": "Markku Aros finnischer Cover von 'You're Such a Good Looking Woman' brachte Joe Dolans Hit von 1970 zum finnischen Publikum.",
@@ -1723,7 +1723,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/32520451",
       "uri_deezer": "deezer://track/1002290",
       "fun_fact": "'Tähdet meren yllä' (Stars Above the Sea) by Reijo Taipale showcases the Finnish tradition of nature imagery in iskelmä; the sea and stars are recurring motifs reflecting Finland's vast coastline and long dark nights.",
       "fun_fact_de": "'Tähdet meren yllä' (Sterne über dem Meer) von Reijo Taipale zeigt die finnische Tradition der Naturbilder in der Iskelmä.",
@@ -1753,7 +1753,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/364059",
       "uri_deezer": "deezer://track/80368034",
       "fun_fact": "Paula Koivuniemi's 'Perhonen' (Butterfly) became one of her signature songs; Koivuniemi has been a dominant force in Finnish popular music since the 1970s and is one of the country's most successful live performers.",
       "fun_fact_de": "Paula Koivuniemis 'Perhonen' (Schmetterling) wurde einer ihrer Signature-Songs; Koivuniemi ist seit den 1970ern eine dominierende Kraft der finnischen Popularmusik.",
@@ -1783,7 +1783,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/10810244",
       "uri_deezer": "deezer://track/14957199",
       "fun_fact": "A. Aimo's 'Kaunis on luoksesi kaipuu' (Beautiful Is the Longing for You) is a tender wartime love song; Aimo was the troubadour of Finland's wartime generation, whose recordings gave voice to soldiers' homesickness and love.",
       "fun_fact_de": "A. Aimos 'Kaunis on luoksesi kaipuu' (Schön ist die Sehnsucht nach dir) ist ein zartes Kriegszeitliebes­lied.",
@@ -1813,7 +1813,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20788125",
       "uri_deezer": "deezer://track/74226373",
       "fun_fact": "Fredi's Finnish rendition of 'Love Is a Many Splendored Thing' illustrates how Hollywood film songs were regularly translated into Finnish during the 1960s and 70s, keeping cinema-inspired romance accessible to Finnish audiences.",
       "fun_fact_de": "Fredis finnische Version von 'Love Is a Many Splendored Thing' zeigt, wie Hollywoodfilmsongs in den 1960er und 70er Jahren regelmäßig ins Finnische übersetzt wurden.",
@@ -1841,7 +1841,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/655945869",
       "uri_youtube_music": "https://music.youtube.com/watch?v=zoLLOOSpgQU",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20534686",
       "uri_deezer": "deezer://track/4104261",
       "awards_nl": [],
       "isrc": "FIFMF7200008",
@@ -1877,7 +1877,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20555117",
       "uri_deezer": "deezer://track/1010525762",
       "fun_fact": "Tapio Rautavaara was not only Finland's most beloved folk singer of his era but also an Olympic javelin thrower who competed in the 1948 London Games; 'Päivänsäde ja menninkäinen' remains one of his most cherished recordings.",
       "fun_fact_de": "Tapio Rautavaara war nicht nur Finnlands beliebtester Volkssänger seiner Zeit, sondern auch ein olympischer Speerwerfer bei den Londoner Spielen 1948; 'Päivänsäde ja menninkäinen' ist eine seiner beliebtesten Aufnahmen.",
@@ -1908,7 +1908,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/654937000",
       "uri_youtube_music": "https://music.youtube.com/watch?v=Jn_JKefqh84",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/13243750",
       "uri_deezer": "deezer://track/67731103",
       "isrc": "FIFSC6600600",
       "uri_apple_music_by_region": {
@@ -1941,7 +1941,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/656239593",
       "uri_youtube_music": "https://music.youtube.com/watch?v=jQdR8v0PcsE",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20518502",
       "uri_deezer": null,
       "isrc": "FIFMF7300021",
       "uri_apple_music_by_region": {
@@ -1976,7 +1976,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20833372",
       "uri_deezer": "deezer://track/3610307",
       "fun_fact": "Seija Simola's 'Kun aika on' (When the Time Comes) is a melancholic reflection on patience and timing in love; Simola was one of the leading female voices of Finnish iskelmä in the late 1960s and early 1970s.",
       "fun_fact_de": "Seija Simolas 'Kun aika on' (Wenn die Zeit kommt) ist eine melancholische Reflexion über Geduld in der Liebe.",
@@ -2004,7 +2004,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/285618686",
       "uri_youtube_music": "https://music.youtube.com/watch?v=qs-TXgaxS_0",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/180682",
       "uri_deezer": "deezer://track/77648145",
       "awards_nl": [],
       "isrc": "FIFPS7400002",
@@ -2040,7 +2040,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20569496",
       "uri_deezer": "deezer://track/4116238",
       "fun_fact": "Erkki Junkkarinen's 'Pieni hetki' (A Small Moment) captures the Finnish appreciation for fleeting precious moments — a philosophical current running through iskelmä that reflects the Lutheran and stoic strands of Finnish culture.",
       "fun_fact_de": "Erkki Junkkarinens 'Pieni hetki' (Ein kleiner Moment) erfasst die finnische Wertschätzung für flüchtige kostbare Momente.",
@@ -2068,7 +2068,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/740115238",
       "uri_youtube_music": "https://music.youtube.com/watch?v=ZYjzD1kFpss",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1641134",
       "uri_deezer": "deezer://track/67761841",
       "isrc": "FIFMF7500010",
       "uri_apple_music_by_region": {
@@ -2101,7 +2101,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/1076971588",
       "uri_youtube_music": "https://music.youtube.com/watch?v=pz0fdbm_GUs",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1578398",
       "uri_deezer": "deezer://track/3610324",
       "awards_nl": [],
       "isrc": "FIFSC7500100",
@@ -2133,7 +2133,7 @@
       },
       "uri_deezer": "13238168",
       "uri_youtube_music": "https://music.youtube.com/watch?v=GZW1SDSYeU0",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/605061",
       "alt_artists": [
         "Jani Wickholm",
         "Anne Mattila",
@@ -2169,7 +2169,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/655105896",
       "uri_youtube_music": "https://music.youtube.com/watch?v=Ff9pXZoRDAc",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/390714",
       "uri_deezer": "deezer://track/3609030",
       "isrc": "FIFFD7500002",
       "uri_apple_music_by_region": {
@@ -2202,7 +2202,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/655922550",
       "uri_youtube_music": "https://music.youtube.com/watch?v=MWwwXvWOp9M",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/21033367",
       "uri_deezer": "deezer://track/3598912",
       "awards_nl": [],
       "isrc": "FIFMF7600007",
@@ -2236,7 +2236,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/655830844",
       "uri_youtube_music": "https://music.youtube.com/watch?v=e-yHZJ-gYec",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/408081",
       "uri_deezer": "deezer://track/3595695",
       "isrc": "FIFMF7600037",
       "uri_apple_music_by_region": {
@@ -2269,7 +2269,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/740115242",
       "uri_youtube_music": "https://music.youtube.com/watch?v=t95UiNedXH4",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/21045732",
       "uri_deezer": "deezer://track/3908058",
       "awards_nl": [],
       "isrc": "FIFMF7600026",
@@ -2305,7 +2305,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1578405",
       "uri_deezer": "deezer://track/10260526",
       "fun_fact": "Mutkattomat's 'Jätkän humppa' (The Lumberjack's Humppa) celebrates humppa, a uniquely Finnish uptempo dance genre descended from the foxtrot; lumberjacks ('jätkät') were iconic figures in Finnish folk culture, embodying rugged independence.",
       "fun_fact_de": "Mutkattomat's 'Jätkän humppa' (Holzfäller-Humppa) feiert Humppa, ein einzigartiges finnisches Uptempo-Tanzgenre; Holzfäller waren ikonische Figuren der finnischen Volkskultur.",
@@ -2337,7 +2337,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/211107100",
       "uri_youtube_music": "https://music.youtube.com/watch?v=6SDfpYZqq9g",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1578399",
       "uri_deezer": "deezer://track/583676",
       "isrc": "FIFSC7600400",
       "uri_apple_music_by_region": {
@@ -2370,7 +2370,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/656165402",
       "uri_youtube_music": "https://music.youtube.com/watch?v=BswWK7dWFlw",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1640377",
       "uri_deezer": "deezer://track/3609703",
       "isrc": "FIFFD7600014",
       "uri_apple_music_by_region": {
@@ -2403,7 +2403,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/216663576",
       "uri_youtube_music": "https://music.youtube.com/watch?v=W9aFisKYYEA",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/362992",
       "uri_deezer": "deezer://track/3902491",
       "awards_nl": [],
       "isrc": "FIFMF7800009",
@@ -2435,7 +2435,7 @@
       },
       "uri_deezer": "1022443",
       "uri_youtube_music": "https://music.youtube.com/watch?v=NR4CcDybv54",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/2859139",
       "alt_artists": [
         "Leif Lindeman",
         "Marko Maunuksela",
@@ -2473,7 +2473,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20898309",
       "uri_deezer": "deezer://track/3608769",
       "fun_fact": "Eino Grön's Finnish version of the Italian 'Torna Piccina' showcases the warm cross-pollination between Italian melody and Finnish sentiment; Grön's deep baritone gave Italian songs a new emotional palette for Finnish listeners.",
       "fun_fact_de": "Eino Gröns finnische Version des italienischen 'Torna Piccina' zeigt die fruchtbare Wechselwirkung zwischen italienischer Melodie und finnischem Empfinden.",
@@ -2503,7 +2503,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20788127",
       "uri_deezer": "deezer://track/3608571",
       "fun_fact": "Fredi's Finnish version of the Godfather theme 'Speak Softly Love' became one of his most remembered recordings; the song's cinematic romance translated beautifully into Finnish iskelmä style.",
       "fun_fact_de": "Fredis finnische Version des Paten-Themas 'Speak Softly Love' wurde eine seiner bekanntesten Aufnahmen; die filmische Romantik des Songs übertrug sich wunderbar auf den Iskelmä-Stil.",
@@ -2533,7 +2533,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/364173",
       "uri_deezer": "deezer://track/3893606",
       "fun_fact": "Hortto Kaalo, a Finnish Roma music group, brought the rich Romani tradition into the iskelmä mainstream with 'Ei kenenkään lähimmäinen', helping give visibility to Finland's Romani community through popular music.",
       "fun_fact_de": "Hortto Kaalo, eine finnische Roma-Musikgruppe, brachte mit 'Ei kenenkään lähimmäinen' die reiche Romani-Tradition in den Iskelmä-Mainstream.",
@@ -2561,7 +2561,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/608019561",
       "uri_youtube_music": "https://music.youtube.com/watch?v=rKHVqAxJuEM",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/20531431",
       "uri_deezer": "deezer://track/67721052",
       "isrc": "FIFMF7800001",
       "uri_apple_music_by_region": {
@@ -2594,7 +2594,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/299243621",
       "uri_youtube_music": "https://music.youtube.com/watch?v=fdwdPVxU4s0",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/2864517",
       "uri_deezer": "deezer://track/7816926",
       "awards_nl": [],
       "isrc": "FISMC7800010",
@@ -2626,7 +2626,7 @@
       },
       "uri_deezer": "7816927",
       "uri_youtube_music": "https://music.youtube.com/watch?v=B7iiUYRxE0s",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/2864509",
       "alt_artists": [
         "Erika Vikman",
         "Kaseva",
@@ -2664,7 +2664,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/36720833",
       "uri_deezer": "deezer://track/3861990",
       "fun_fact": "Vesa-Matti Loiri's 'Lapin kesä' (Lapland Summer) reflects his deep love for Finnish nature; Loiri was a celebrated actor, comedian, and singer who became a true national treasure, known for his extraordinary versatility.",
       "fun_fact_de": "Vesa-Matti Loiris 'Lapin kesä' (Lappland-Sommer) spiegelt seine tiefe Liebe zur finnischen Natur wider; Loiri war ein gefeierter Schauspieler, Komiker und Sänger.",
@@ -2694,7 +2694,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/398078",
       "uri_deezer": "deezer://track/3861986",
       "fun_fact": "Vesa-Matti Loiri's 'Nocturne' demonstrates his artistic ambition beyond comedy; Loiri was a serious musician as well as Finland's most beloved comic actor, and his heartfelt musical recordings stand as works of genuine art.",
       "fun_fact_de": "Vesa-Matti Loiris 'Nocturne' zeigt seinen künstlerischen Ehrgeiz jenseits der Komödie; Loiri war ein ernsthafter Musiker sowie Finnlands beliebtester Komiker.",
@@ -2724,7 +2724,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/398074",
       "uri_deezer": "deezer://track/3861982",
       "fun_fact": "Vesa-Matti Loiri's 'Elegia' (Elegy) showcases his profound ability to interpret serious, poetic material; Loiri set several Finnish classical poems to music, and his vocal performances of these pieces are considered definitive.",
       "fun_fact_de": "Vesa-Matti Loiris 'Elegia' (Elegie) zeigt seine tiefe Fähigkeit, ernstes, poetisches Material zu interpretieren.",
@@ -2752,7 +2752,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/250408633",
       "uri_youtube_music": "https://music.youtube.com/watch?v=seA8p2tv2S4",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/16836815",
       "uri_deezer": "deezer://track/3594625",
       "isrc": "FIFMF7900008",
       "uri_apple_music_by_region": {
@@ -2785,7 +2785,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/216663432",
       "uri_youtube_music": "https://music.youtube.com/watch?v=unU3vOAjHf8",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/390697",
       "uri_deezer": "deezer://track/117673244",
       "awards_nl": [],
       "isrc": "FIFSC7900400",
@@ -2819,7 +2819,7 @@
       "awards_nl": [],
       "uri_apple_music": "applemusic://track/656151409",
       "uri_youtube_music": "https://music.youtube.com/watch?v=4tRi6yCWtT0",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1653415",
       "uri_deezer": "deezer://track/3597362",
       "isrc": "FIFSC7900500",
       "uri_apple_music_by_region": {
@@ -2852,7 +2852,7 @@
       "awards": [],
       "uri_apple_music": "applemusic://track/269273222",
       "uri_youtube_music": "https://music.youtube.com/watch?v=bJaqq0yIpx0",
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/17114689",
       "uri_deezer": "deezer://track/1022234",
       "awards_nl": [],
       "isrc": "FIFLF8800500",
@@ -2888,7 +2888,7 @@
         "it": null
       },
       "uri_youtube_music": null,
-      "uri_tidal": null,
+      "uri_tidal": "tidal://track/1842252",
       "uri_deezer": "deezer://track/13259045",
       "fun_fact": "Reijo Kallio's 'Yksinäinen' (Lonely) captures the theme of solitude that runs through much of Finnish popular music; loneliness and longing ('ikävä') are perhaps the most defining emotional themes of the iskelmä genre.",
       "fun_fact_de": "Reijo Kallios 'Yksinäinen' (Einsam) erfasst das Thema der Einsamkeit, das sich durch einen Großteil der finnischen Popularmusik zieht.",
