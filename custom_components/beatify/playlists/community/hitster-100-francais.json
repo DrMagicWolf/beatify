@@ -1,6 +1,6 @@
 {
   "name": "100% Français 🇫🇷",
-  "version": "0.5",
+  "version": "0.6",
   "tags": [
     "french",
     "francais",
@@ -107,7 +107,7 @@
         "nl": null,
         "it": null
       },
-      "uri_youtube_music": "https://music.youtube.com/watch?v=zquFZaHw2TQ",
+      "uri_youtube_music": "https://music.youtube.com/watch?v=NpgPZB3tZks",
       "uri_tidal": "tidal://track/140972048",
       "uri_deezer": "deezer://track/943928002",
       "alt_artists": [],
@@ -305,7 +305,7 @@
       "uri": "spotify:track:4tnPvwaN0aFPgqEV86NLJK",
       "year": 1998,
       "isrc": "FR6V89800242",
-      "uri_apple_music": "applemusic://track/509229466",
+      "uri_apple_music": "applemusic://track/205580615",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
@@ -1371,7 +1371,7 @@
       "uri": "spotify:track:6xs2iOXaBfCeVKeyfo2VNE",
       "year": 2006,
       "isrc": "FRZ017400110",
-      "uri_apple_music": "applemusic://track/1444069780",
+      "uri_apple_music": "applemusic://track/1657882200",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
@@ -2437,7 +2437,6 @@
       "uri": "spotify:track:5In3pvQJM6E1ckhsZS4vzM",
       "year": 2012,
       "isrc": "FR0W61213255",
-      "uri_apple_music": "applemusic://track/1551646999",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
@@ -2593,7 +2592,6 @@
       "uri": "spotify:track:1A3jtKS9NSvfOSOXSd9esh",
       "year": 2005,
       "isrc": null,
-      "uri_apple_music": "applemusic://track/1445055672",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
