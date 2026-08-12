@@ -4321,7 +4321,7 @@
       },
       "uri_youtube_music": null,
       "uri_tidal": "tidal://track/30214472",
-      "uri_deezer": null,
+      "uri_deezer": "deezer://track/78974349",
       "fun_fact": "“Gecko (Overdrive) - Radio Edit” is the title track of Oliver Heldens’s release of the same name.",
       "fun_fact_de": "„Gecko (Overdrive) - Radio Edit“ ist der Titelsong der gleichnamigen Veröffentlichung von Oliver Heldens.",
       "fun_fact_es": "«Gecko (Overdrive) - Radio Edit» es la canción que da título al lanzamiento homónimo de Oliver Heldens.",
@@ -4339,7 +4339,7 @@
       "year": 1999,
       "isrc": "NLS241000174",
       "uri": "spotify:track:52LJ3hyknOijCrE5gCD0rE",
-      "uri_apple_music": null,
+      "uri_apple_music": "applemusic://track/384919385",
       "uri_apple_music_by_region": {
         "us": null,
         "de": null,
