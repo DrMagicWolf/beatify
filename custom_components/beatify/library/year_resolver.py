@@ -431,7 +431,9 @@ async def async_musicbrainz_candidates(
             _MB_BASE, params=params, headers=headers, timeout=timeout
         ) as resp:
             if resp.status != 200:
-                _LOGGER.debug("MB candidates %s for %s - %s", resp.status, artist, title)
+                _LOGGER.debug(
+                    "MB candidates %s for %s - %s", resp.status, artist, title
+                )
                 return []
             data = await resp.json()
     except Exception:  # noqa: BLE001
